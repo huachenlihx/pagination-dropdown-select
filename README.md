@@ -5,6 +5,12 @@
 
 Accessible, controlled pagination and page-size dropdowns for React and Next.js, written in TypeScript.
 
+## Screenshot
+
+![pagination-dropdown-select integrated into a Next.js demo app](screeenshots/pagination-dropdown-select-demo.png)
+
+Example integration of `pagination-dropdown-select` inside a Next.js 16 / React 19 demo application, showing page-size selection, page navigation, and client-side pagination of tabular data.
+
 ## Features
 
 - First, previous, next and last-page buttons
