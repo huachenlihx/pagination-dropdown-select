@@ -1,6 +1,6 @@
 {
   "name": "pagination-dropdown-select",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Accessible pagination and page-size dropdowns for React and Next.js.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
